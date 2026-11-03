@@ -65,4 +65,8 @@ These are recommendations from one address over 27 days, so each is worth testin
 - One store was often hidden from 9 October, which affects trends and Provilac's share.
 - Substitution results are associations, not proof that shoppers switched.
 
+## Data and independence disclaimer
+
+This is an independent, personal research project based on product listing and availability information publicly visible on the platform during the observation period. All estimates, analysis and interpretations are my own. This project is not affiliated with, sponsored by or endorsed by the platform or any of the brands mentioned. No confidential business information or customer-level personal data was used.
+
 The data checks and every table are in the [Colab notebook](https://colab.research.google.com/github/anagha971/milk-quick-commerce-analysis/blob/main/notebooks/milk_category_analysis.ipynb), the rules are in the [full method](docs/methodology.md), and the charts are in the [insights deck](docs/insights_deck.pdf).

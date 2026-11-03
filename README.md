@@ -59,6 +59,10 @@ flowchart LR
 - One address, one category and 27 days. The stores also serve other areas.
 - Thousands of stockout comparisons were tested, so the notebook reports a false-discovery check, and many product-level results could still be chance.
 
+## Data and independence disclaimer
+
+This is an independent, personal research project based on product listing and availability information publicly visible on the platform during the observation period. All estimates, analysis and interpretations are my own. This project is not affiliated with, sponsored by or endorsed by the platform or any of the brands mentioned. No confidential business information or customer-level personal data was used.
+
 ## Repository
 
 | Path | What it holds |
